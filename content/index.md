@@ -1,5 +1,5 @@
 ---
-title: Hello
+title: Hello👋
 ---
 My name is Yuzhe Zhou.
 
