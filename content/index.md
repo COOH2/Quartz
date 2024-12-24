@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Hello
 ---
+My name is Yuzhe Zhou.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I am studying at [Zhu Lab](Lab.zhuxinru.com), Science Tokyo.
+
+Thinking about Typography and Calligraphy.
