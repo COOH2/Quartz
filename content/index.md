@@ -9,4 +9,7 @@ I study at [Zhu Lab](https://lab.zhuxinru.com/), Science Tokyo．
 
 Considering typography and calligraphy．
 
-Contact me: zhou.y.al(at)m.titech.ac.jp
+
+
+
+**Contact me:** zhou.y.al(at)m.titech.ac.jp
