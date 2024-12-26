@@ -7,6 +7,6 @@ I graduated from [Tokyo Denki University](https://www.dendai.ac.jp/) and am now 
 Like visiting art museums and traveling. [instagram](https://www.instagram.com/)<br><br><br>
 
 **Language Skill**
-Chinese:    Native Level
-Japanese:   N1 level
-English:    Business level
+Chinese:    Native Level<br>
+Japanese:   N1 level<br>
+English:    Business level<br>
