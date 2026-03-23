@@ -1,7 +1,9 @@
 ---
 title: Book list
 ---
+
 （ここは個人の記録スペースです）
+
 ### **2024 Booklist**<br>
 『街とその不確かな壁』<br>
 『となりのヘルベチカ』<br>
@@ -22,5 +24,5 @@ title: Book list
 『日本語活字印刷史』<br>
 『古典仮名字鑑』<br>
 
-###　*＊2026　Booklist**<br>
+###　**2026　Booklist**<br>
 『吾輩は猫である』<br>
